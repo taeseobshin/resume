@@ -1,5 +1,3 @@
-# resume
-resume_신태섭
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 	<head>
